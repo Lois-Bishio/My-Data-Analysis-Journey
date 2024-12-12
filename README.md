@@ -23,7 +23,7 @@ This will help us to:
 
 ## Data Source
 
-Sales Data: The primary dataset used in this analysis is the "Copy of New York Citi Bikes_Raw Data.xlx" file, containing customers usage data by the company.
+Sales Data: The primary dataset used in this analysis is the "Copy of New York Citi Bikes_Raw Data.xlsx" file, containing customers usage data by the company.
 
 ### Tools 
 
